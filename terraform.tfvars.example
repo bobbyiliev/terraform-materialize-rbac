@@ -1,0 +1,6 @@
+team_names                        = ["team1", "team2"]
+environment_name                  = "dev"
+cluster_size                      = "3xsmall"
+cluster_replication_factor        = 1
+all_cluster_schema_database_perms = ["USAGE", "CREATE"]
+all_table_perms                   = ["INSERT", "SELECT", "UPDATE", "DELETE"]
