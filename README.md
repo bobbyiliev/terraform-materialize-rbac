@@ -66,8 +66,6 @@ No modules.
 | <a name="output_cluster_names"></a> [cluster\_names](#output\_cluster\_names) | The names of the created clusters. |
 | <a name="output_database_names"></a> [database\_names](#output\_database\_names) | The names of the created databases. |
 | <a name="output_role_names"></a> [role\_names](#output\_role\_names) | The names of the created roles. |
-
----
-
-## Example Usage
+| <a name="output_schema_names"></a> [schema\_names](#output\_schema\_names) | The names of the created schemas. |
+| <a name="output_team_names"></a> [team\_names](#output\_team\_names) | The names of the independent teams that will get their own databases and roles. |
 <!-- END_TF_DOCS -->
